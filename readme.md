@@ -1,1 +1,1 @@
-# My Simple pyautogui Demo
+# My Simple Streamlit Demo
